@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    .hero-header {
+      padding-top: 100px; /* Adjust the padding as needed */
+      padding-bottom: 100px; /* Adjust the padding as needed */
+    }
+    .hero-header .container {
+      padding-left: 15px; /* Adjust the padding as needed */
+      padding-right: 15px; /* Adjust the padding as needed */
+    }
+    .hero-header .col-7 {
+      width: 100%; /* Make the column take full width on smaller screens */
+      text-align: center; /* Center align the content */
+      padding-right: 15px; /* Adjust the padding as needed */
+      padding-left: 15px; /* Adjust the padding as needed */
+      margin-bottom: 30px; /* Adjust the margin as needed */
+    }
+    .hero-header .col-5 {
+      width: 100%; /* Make the column take full width on smaller screens */
+      text-align: center; /* Center align the content */
+      padding-right: 15px; /* Adjust the padding as needed */
+      padding-left: 15px; /* Adjust the padding as needed */
+    }
+    .quran-pic {
+      margin-left: auto; /* Center the image horizontally */
+      margin-right: auto; /* Center the image horizontally */
+    }
+    .dropdown{
+        background: transparent;
+    }
+  }
+  
